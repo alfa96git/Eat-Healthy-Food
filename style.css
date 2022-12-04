@@ -47,3 +47,30 @@ body{
 
 
 /* ---------------- */
+
+.aboutMe-section{
+    display: flex;
+}
+
+
+.recipies-card-list{
+    display: flex;
+}
+
+.showList{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+/* ------------------ */
+.footerSection{
+    background-color: cadetblue;
+    text-align: center;
+    padding: 10px;
+}
