@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.banner-section{
+    display: flex;
+    /* background-color: aquamarine; */
+    margin-bottom: 20px;
+}
+
+.banner-left-side{
+    width: 50%;
+    padding-left: 50px;
+}
+
+.banner-left-side h1{
+    font-size: 40px;
+}
+
+.banner-left-side p{
+    font-size: 22px;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.banner-left-side a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(207, 198, 191), rgb(207, 89, 76));
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.banner-right-side{
+    width: 50%;
+    /* background-color: rgb(142, 127, 121);   */
+}
+
+.banner-right-side img{
+    /* background-color: rgb(100, 65, 133); */
+    height: 100%;
+    width: 80%;
+}
+
+
+/* ---------------- */
